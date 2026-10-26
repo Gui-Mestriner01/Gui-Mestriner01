@@ -46,7 +46,59 @@ const gui = {
 
 <img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/divider.svg" width="100%" />
 
-## `02.` Stack
+## `02.` Projeto em destaque — Saber+
+
+<div align="center">
+
+<a href="https://sabermaisedu.com">
+  <img src="https://img.shields.io/badge/ACESSAR-sabermaisedu.com-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" />
+</a>
+<a href="https://github.com/Gui-Mestriner01/saber-mais">
+  <img src="https://img.shields.io/badge/C%C3%93DIGO-saber--mais-0D1117?style=for-the-badge&labelColor=0D1117&color=A855F7" />
+</a>
+
+</div>
+
+Plataforma educacional gamificada para o ensino fundamental, feita como **TCC** junto com
+**Gabriel Wataru Waki** e orientada pelo
+Prof. Renato de Aguiar Teixeira Mendes. A ideia é simples: o professor monta as atividades
+em minutos, o aluno entra com o código da turma e joga — sem senha, sem fricção.
+
+**O que o professor faz**
+
+- Cria turmas com senha de emojis e acompanha tudo por um painel
+- Monta atividades de 4 tipos: Quiz (V/F), Ligar os Correspondentes, Pintar Cenário e Resposta Aberta
+- Vê relatórios com KPIs, barras por turma, rosca de tipos de atividade e ranking de Top Alunos
+
+**O que o aluno vê**
+
+- Login estilo Kahoot: só o código da sala e o primeiro nome
+- Avatar próprio, pontuação por atividade e ranking da turma
+
+**Módulo AEE (Atendimento Educacional Especializado)** — a parte que mais me orgulha
+
+- Menu flutuante de acessibilidade com leitura de tela por hover (Web Speech API)
+- Tradução em Libras via VLibras, modo escuro, alto contraste e fonte OpenDyslexic
+- Ajuste de cores para protanopia e deuteranopia
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-home.jpg" width="49%" alt="Tela inicial do Saber+" />
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-aluno.jpg" width="49%" alt="Área do aluno" />
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-acessibilidade.jpg" width="70%" alt="Menu de acessibilidade do módulo AEE" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mysql&theme=dark" />
+
+`React (Vite)` · `Node.js/Express` · `MySQL` · `JWT` · `Recharts` · `Cloudinary`
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/divider.svg" width="100%" />
+
+</div>
+
+## `03.` Stack
 
 <div align="center">
 
@@ -72,7 +124,7 @@ const gui = {
 
 </div>
 
-## `03.` Estatísticas
+## `04.` Estatísticas
 
 <div align="center">
 
@@ -87,7 +139,7 @@ const gui = {
 
 </div>
 
-## `04.` Projetos em destaque
+## `05.` Outros projetos
 
 <div align="center">
 
@@ -117,7 +169,7 @@ const gui = {
 
 </div>
 
-## `05.` Contribuições
+## `06.` Contribuições
 
 <div align="center">
 
@@ -129,6 +181,17 @@ const gui = {
 │   depois faz rápido."                                    │
 └──────────────────────────────────────────────────────────┘
 ```
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/divider.svg" width="100%" />
+
+**Procurando oportunidade de estágio ou primeiro emprego como desenvolvedor** — Araçatuba-SP ou remoto.
+Se meu trabalho fizer sentido pro seu time, é só chamar.
+
+<a href="mailto:gmestriner6@gmail.com">
+  <img src="https://img.shields.io/badge/gmestriner6%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
+</a>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/footer.svg" width="100%" />
 
