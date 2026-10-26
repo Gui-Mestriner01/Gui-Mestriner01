@@ -83,10 +83,17 @@ em minutos, o aluno entra com o código da turma e joga — sem senha, sem fric�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-home.jpg" width="49%" alt="Tela inicial do Saber+" />
-<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-aluno.jpg" width="49%" alt="Área do aluno" />
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-home.png" width="85%" alt="Tela inicial do Saber+" />
 
-<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-acessibilidade.jpg" width="70%" alt="Menu de acessibilidade do módulo AEE" />
+<sub>Entrada do sistema — o aluno nem precisa saber o que é login</sub>
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-aluno.png" width="85%" alt="Área do aluno" />
+
+<sub>Área do aluno: entra pelo código da sala e cai direto nas atividades</sub>
+
+<img src="https://raw.githubusercontent.com/Gui-Mestriner01/Gui-Mestriner01/main/saber-acessibilidade.png" width="58%" alt="Menu de acessibilidade do módulo AEE" />
+
+<sub>Módulo AEE: tamanho de texto, alto contraste, espaçamento e ajuste para daltonismo</sub>
 
 <br/>
 
