@@ -101,9 +101,6 @@ const gui = {
 <a href="https://github.com/Gui-Mestriner01/pata-feliz-sistema">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Mestriner01&repo=pata-feliz-sistema&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
 </a>
-<a href="https://github.com/Gui-Mestriner01/calculadora-docker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-Mestriner01&repo=calculadora-docker&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
-</a>
 
 </div>
 
@@ -112,7 +109,7 @@ const gui = {
 | **Saber+** | TCC — plataforma educacional gamificada | `JavaScript` `MySQL` |
 | **RL Store** | Catálogo online de loja de roupas + painel admin | `PHP` `MySQL` |
 | **Pata Feliz** | Sistema para pet shop de banho e tosa | `PHP` `Bootstrap` |
-| **Calculadora Docker** | Estudo de containers e orquestração | `Shell` `Docker` |
+| **Calculadora Docker** | Estudo de containers e orquestração *(privado)* | `Shell` `Docker` |
 
 <div align="center">
 
