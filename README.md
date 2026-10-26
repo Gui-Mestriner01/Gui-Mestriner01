@@ -76,7 +76,7 @@ const gui = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gui-Mestriner01&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gui-Mestriner01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Mestriner01&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
 
 <br/>
