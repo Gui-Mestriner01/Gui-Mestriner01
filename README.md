@@ -59,9 +59,8 @@ const gui = {
 
 </div>
 
-Plataforma educacional gamificada para o ensino fundamental, feita como **TCC** junto com
-**Gabriel Wataru Waki** e orientada pelo
-Prof. Renato de Aguiar Teixeira Mendes. A ideia é simples: o professor monta as atividades
+Plataforma educacional gamificada para o ensino fundamental, feita como **TCC** 
+A ideia é simples: o professor monta as atividades
 em minutos, o aluno entra com o código da turma e joga — sem senha, sem fricção.
 
 **O que o professor faz**
